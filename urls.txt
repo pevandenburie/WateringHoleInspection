@@ -1,0 +1,12 @@
+https://www.impots.gouv.fr/portail/
+https://www.interieur.gouv.fr/
+http://www.data.gouv.fr/
+http://www.securite-routiere.gouv.fr/
+
+http://httpbin.org/status/404
+http://httpbin.org/status/500
+
+http://www.elysee.fr/
+https://www.cnil.fr/
+http://www.legifrance.gouv.fr/
+http://www.service-public.fr/
